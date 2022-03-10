@@ -1,0 +1,381 @@
+{
+  "district": [
+    {
+      "ID": 1,
+      "Name": "Jhapa"
+   
+    },
+    {
+      "ID": 2,
+      "Name": "Taplejung"
+     
+    },
+    {
+      "ID": 3,
+      "Name": "Pancthar"
+   
+    },
+    {
+      "ID": 4,
+      "Name": "Ilam"
+    
+    },
+    {
+      "ID": 5,
+      "Name": "Morang"
+    
+    },
+    {
+      "ID": 6,
+      "Name": "Sunsari"
+     
+    },
+    {
+      "ID": 7,
+      "Name": "Dhankuta"
+  
+    },
+    {
+      "ID": 8,
+      "Name": "Terathung"
+  
+    },
+    {
+      "ID": 9,
+      "Name": "Sankhuwasabha"
+    
+    },
+    {
+      "ID": 10,
+      "Name": "Bhojpur"
+     
+    },
+    {
+      "ID": 11,
+      "Name": "Solukhumbu"
+   
+    },
+    {
+      "ID": 12,
+      "Name": "Khotang"
+  
+    },
+    {
+      "ID": 13,
+      "Name": "Okhaldhunga"
+  
+    },
+    {
+      "ID": 14,
+      "Name": "udaypur"
+   
+    },
+    {
+      "ID": 15,
+      "Name": "Saptari"
+  
+    },
+    {
+      "ID": 16,
+      "Name": "Siraha"
+    
+    },
+    {
+      "ID": 17,
+      "Name": "Dhanusa"
+      
+    },
+    {
+      "ID": 18,
+      "Name": "Mahottari"
+      
+    },
+    {
+      "ID": 19,
+      "Name": "Sarlahi"
+ 
+    },
+    {
+      "ID": 20,
+      "Name": "Sindhuli"
+    
+    },
+    {
+      "ID": 21,
+      "Name": "Ramechap"
+   
+    },
+    {
+      "ID": 22,
+      "Name": "Dolakha"
+    
+    },
+    {
+      "ID": 23,
+      "Name": "Sindhupalchauk"
+   
+    },
+    {
+      "ID": 24,
+      "Name": "Kavrepalanchauk"
+     
+     
+    },
+    {
+      "ID": 25,
+      "Name": "Lalitpur"
+      
+    
+    },
+    {
+      "ID": 26,
+      "Name": "Bhaktpur"
+    
+    },
+    {
+      "ID": 27,
+      "Name": "Kathmandu"
+    
+    },
+    {
+      "ID": 28,
+      "Name": "Nuwakot"
+     
+    },
+    {
+      "ID": 29,
+      "Name": "Rasuwa"
+    
+    },
+    {
+      "ID": 30,
+      "Name": "Dhading"
+   
+    },
+    {
+      "ID": 31,
+      "Name": "Makwanpur"
+     
+    },
+    {
+      "ID": 32,
+      "Name": "Rautahat"
+      
+    },
+    {
+      "ID": 33,
+      "Name": "Bara"
+    
+    },
+    {
+      "ID": 34,
+      "Name": "Parsa"
+    
+    },
+    {
+      "ID": 35,
+      "Name": "Chitwan"
+   
+    },
+    {
+      "ID": 36,
+      "Name": "Gorkha"
+    
+    },
+    {
+      "ID": 37,
+      "Name": "Lamjung"
+   
+    },
+    {
+      "ID": 38,
+      "Name": "Manag"
+    
+    },
+    {
+      "ID": 39,
+      "Name": "Kaski"
+   
+    },
+    {
+      "ID": 40,
+      "Name": "Tanahu"
+     
+    },
+    {
+      "ID": 41,
+      "Name": "Syanja"
+   
+    },
+    {
+      "ID": 42,
+      "Name": "Parbat"
+      
+    },
+    {
+      "ID": 43,
+      "Name": "Baglung"
+      
+    },
+    {
+      "ID": 44,
+      "Name": "Magdi"
+   
+    },
+    {
+      "ID": 45,
+      "Name": "Mustang"
+    
+    },
+    {
+      "ID": 46,
+      "Name": "Palpa"
+ 
+    },
+    {
+      "ID": 47,
+      "Name": "Nawalparasi"
+     
+    },
+    {
+      "ID": 48,
+      "Name": "Rupandehi"
+      
+    },
+    {
+      "ID": 49,
+      "Name": "Kapilbastu"
+    
+    },
+    {
+      "ID": 50,
+      "Name": "Arghakhanchi"
+     
+    },
+    {
+      "ID": 51,
+      "Name": "Gulmi"
+     
+    },
+    {
+      "ID": 52,
+      "Name": "Rukum"
+ 
+    },
+    {
+      "ID": 53,
+      "Name": "Salyan"
+  
+    },
+    {
+      "ID": 54,
+      "Name": "Rolpa"
+   
+    },
+    {
+      "ID": 55,
+      "Name": "Pyuthan"
+     
+    },
+    {
+      "ID": 56,
+      "Name": "Dang"
+   
+    },
+    {
+      "ID": 57,
+      "Name": "Banke"
+    
+    },
+    {
+      "ID": 58,
+      "Name": "Bardiya"
+
+    },
+    {
+      "ID": 59,
+      "Name": "Surkhet"
+
+    },
+    {
+      "ID": 60,
+      "Name": "Jajarkot"
+   
+    },
+    {
+      "ID": 61,
+      "Name": "Dailekha"
+     
+    },
+    {
+      "ID": 62,
+      "Name": "Dolpa"
+    
+    },
+    {
+      "ID": 63,
+      "Name": "Jumla"
+   
+    },
+    {
+      "ID": 64,
+      "Name": "Kalikot"
+  
+    },
+    {
+      "ID": 65,
+      "Name": "Mugu"
+    
+    },
+    {
+      "ID": 66,
+      "Name": "Humla"
+     
+    },
+    {
+      "ID": 67,
+      "Name": "Bajhang"
+     
+    },
+    {
+      "ID": 68,
+      "Name": "Bajura"
+      
+    },
+    {
+      "ID": 69,
+      "Name": "Achham"
+     
+    },
+    {
+      "ID": 70,
+      "Name": "Doti"
+    
+    },
+    {
+      "ID": 71,
+      "Name": "Kailali"
+    
+    },
+    {
+      "ID": 72,
+      "Name": "Kanchanpur"
+     
+    },
+    {
+      "ID": 73,
+      "Name": "Dadeldhura"
+    
+    },
+    {
+      "ID": 74,
+      "Name": "Baitadi"
+     
+    },
+    {
+      "ID": 75,
+      "Name": "Darchula"
+  
+    }
+  ]
+}
